@@ -1,7 +1,7 @@
 ---
-title: "Mayank Sharma"
+title: "Mak"
 image: ""
-email: "doggy.catty101@gmail.com"
+email: "alt.homes18@gmail.com"
 description: "Animal lover and Experienced Writer"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
@@ -14,4 +14,6 @@ social:
     link : "#"
 ---
 
-Mayank Sharma is a senior content writer, writing extensively on pet issues. He has experience of over 10 years. 
+Mak is a senior Academician, Blogger, and Digital Marketer. He has experience of over 10 years. He loves his freedom - be at work or at home. 
+
+He likes travelling as much as he likes to stay at home. Mobile homes provide us the best of both the worlds - comfort of home, and exploring new places. 

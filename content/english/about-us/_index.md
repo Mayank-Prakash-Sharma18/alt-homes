@@ -46,8 +46,8 @@ call_to_action:
 
 ## What is our main mission?
 
-We want to create awareness about pet care and sensitize people to treat animals more humanely. 
+We want to create awareness about alternative home options available to us. New technology and changing work and family lifestyles have allowed many people to explore and experience unhackneyed living arrangements. 
 
-Our aim is to open a country-wide NGO that can take care of animals, e.g. stray dogs and cats etc. and streamline all the services required for that purpose. 
+This website is dedicated to those free and adventurous souls that prefer to live out of the box!
 
 Regards
