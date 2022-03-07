@@ -152,14 +152,32 @@ bio = "Love to live out of the box."
 ############# english navigation ##############
 
 [[Languages.en.menu.main]]
-name = "Trailers"
-url = "categories/trailers/"
+name = "RVs"
+url = "categories/rv/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Boats"
-url = "categories/boats/"
-weight = 2
+name = "Alt-Homes"
+url = "categories/alternative-housing/"
+weight = 3
+hasChildren = true
+
+   # [[Languages.en.menu.main]]
+   # parent = "Alt-Homes"
+   # name = "Tiny Homes"
+   # URL = "categories/tiny-homes"
+   # weight = 4
+
+   # [[Languages.en.menu.main]]
+   # parent = "Alt-Homes"
+   # name = "Off-Grid Homes"
+   # URL = "categories/off-grid-homes"
+   # weight = 5
+
+[[Languages.en.menu.main]]
+name = "Boat Homes"
+url = "categories/boat-homes/"
+weight = 10
 
 # [[Languages.en.menu.main]]
 # name = "Parrots"
